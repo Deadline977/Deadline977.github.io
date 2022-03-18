@@ -24,15 +24,13 @@
             margin: 20px 0;
         }
         div{
-            width: 90%;
-            margin: auto;
-           background-image: url(https://pa1.narvii.com/7589/6bb43f7d7cbdab78bd26e460d1d7bfdcacbef140r1-270-380_hq.gif);
+            margin: 0; /* Убираем отступы */
+    height: 100%; /* Высота страницы */
+           background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612802936_6-p-nezhno-goluboi-fon-anime-7.jpg);
+           background-size: cover; 
             padding: 50px;
         }
-            img{
-            width: 100%;
-            height: auto;
-            display: block;}
+            
             .link{
                 display: inline;
             }
