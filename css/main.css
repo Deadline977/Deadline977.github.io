@@ -1,0 +1,38 @@
+@font-face{
+    font-family: Gunji;
+    scr: url('font/Gunji.otf') format('OpenType')
+    font-weight: normal;
+    font-style: normal;
+}
+		h1{color:	black;
+  		font-size: 48px;
+  		font-family: 'Pacifico', cursive;
+		}
+        p{color: red;
+        font-size: 32px;
+        font-family: 'Caveat', cursive;
+        }
+        span{
+        	background: blue; 
+        }
+        a{
+            text-decoration: none;
+            color: black;
+            font-size: 30px;
+            font-family: 'Gunji',normal;
+            display: block;
+            margin: 20px 0;
+        }
+        div{
+            width: 90%;
+            margin: auto;
+           background-image: url(https://pa1.narvii.com/7589/6bb43f7d7cbdab78bd26e460d1d7bfdcacbef140r1-270-380_hq.gif);
+            padding: 50px;
+        }
+            img{
+            width: 100%;
+            height: auto;
+            display: block;}
+            .link{
+                display: inline;
+            }
